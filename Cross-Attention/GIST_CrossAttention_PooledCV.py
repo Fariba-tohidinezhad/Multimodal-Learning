@@ -1,9 +1,5 @@
 import sys
 import os
-
-# fuse-med-ml path
-sys.path.insert(0, '/gpfs/home4/ftohidinezhad/fuse-med-ml')
-
 import json
 import copy
 import random
@@ -692,3 +688,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
