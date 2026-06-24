@@ -64,13 +64,4 @@ Proposed multimodal architecture integrating clinical and imaging tokens through
 ---
 
 ## Acknowledgements
-
-Developed at the Biomedical Imaging Group Rotterdam (BIGR), Erasmus MC.
-
-Supported by:
-
-* Dutch Research Council (NWO)
-* AiNed Fellowship Program
-* Stichting Hanarth Fonds
-
-Computing resources were provided by SURF and Erasmus MC.
+This work used the Dutch national e-infrastructure with the support of the SURF Cooperative using grant no. EINF-14257, financed by the Dutch Research Council (NWO). We gratefully acknowledge the fundraising efforts of patients, families, and supporters from the GIST community, including a cycling initiative led by Rob Scheurink and collaborators, which contributed to the development of the imaging dataset.
