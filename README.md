@@ -55,7 +55,7 @@ Proposed multimodal architecture integrating clinical and imaging tokens through
 
 ```bibtex
 @article{tohidinezhad2026gist,
-  title={Cross-Attention Multimodal Learning for Predicting Response to Neoadjuvant Imatinib in Gastrointestinal Stromal Tumors: A Multicenter Retrospective Study},
+  title={Cross-Attention Multimodal Learning for Predicting Response to Neoadjuvant Imatinib in Gastrointestinal Stromal Tumors},
   author={Tohidinezhad, Fariba and colleagues},
   year={2026}
 }
