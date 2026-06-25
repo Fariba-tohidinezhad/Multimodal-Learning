@@ -6,7 +6,7 @@ This repository contains the code for developing explainable multimodal deep lea
 
 * 3D CT imaging
 * Clinical variables
-* Transformer-based multimodal fusion
+* Transformer-based cross-attention multimodal fusion
 * Self-supervised pretraining
 * LoRA fine-tuning
 * SMAC3 hyperparameter optimization
