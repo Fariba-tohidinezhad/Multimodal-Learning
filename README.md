@@ -8,8 +8,8 @@ This repository contains the code for developing explainable multimodal deep lea
 * Clinical variables
 * Transformer-based cross-attention multimodal fusion
 * Masked Autoencoder (MAE) self-supervised pretraining
-* LoRA fine-tuning
-* SMAC3 hyperparameter optimization
+* Low-Rank Adaptation (LoRA) fine-tuning
+* Hyperparameter optimization using Sequential Model-based Algorithm Configuration 3 (SMAC3)
 
 The framework is implemented using **FuseMedML**, **PyTorch Lightning**, and **SMAC3**.
 
